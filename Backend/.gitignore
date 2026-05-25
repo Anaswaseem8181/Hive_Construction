@@ -1,0 +1,13 @@
+.env
+node_modules
+package-lock.json
+yarn.lock
+.env.development.local
+.env.test.local
+.env.production.local
+.env.local
+yarn-error.log
+npm-debug.log
+read.md
+INVESTMENT_API_DOCS.md
+INVESTOR_PAYOUT_SCHEDULE.md

@@ -1,0 +1,17 @@
+{
+  "recommendations": [
+    "Vue.js Extension Pack",
+    "Tailwind CSS IntelliSense",
+    "ES7+ React/Redux/React-Native snippets",
+    "Prettier - Code formatter",
+    "ESLint",
+    "Thunder Client"
+  ],
+  "editor": {
+    "formatOnSave": true,
+    "defaultFormatter": "esbenp.prettier-vscode",
+    "codeActionsOnSave": {
+      "source.fixAll.eslint": true
+    }
+  }
+}
